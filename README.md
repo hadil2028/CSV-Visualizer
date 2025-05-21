@@ -1,1 +1,1 @@
-# CSV-Visualizer
+# CSV-Visualizer : for your project to function perfectly you need to import streamlit, pandas, numpy, matplotlib and seaborn just to let you know there's a sample data that i created to give the user an example of what the application is capable of doing 
