@@ -1,4 +1,4 @@
-# CSV Visualizer
+# Interactive Correlation Analysis with Python and Streamlit
 
 A Python application for visualizing CSV data using Streamlit, Pandas, and popular visualization libraries.
 
