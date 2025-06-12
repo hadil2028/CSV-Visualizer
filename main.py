@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 
 st.set_page_config(page_title="CSV Visualizer", page_icon="📊")
-st.title("📊 CSV Visualization App")
+st.title("📊 CSV Visualization Application")
 
 st.write("### 1. Upload your CSV file")
 uploaded_file = st.file_uploader("Drag and drop your file here", type=["csv"])
